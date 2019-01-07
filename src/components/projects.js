@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'reactstrap'
 import asteroids from '../images/asteroids.png'
 import candy from '../images/candy.png'
 import clean from '../images/clean.png'
-import yelpcamp from '../images/yelpcamp.png'
+import yelpcamp from '../images/yelpcamp.jpg'
 
 let myStyle = {
   letterSpacing: '0.1rem',
