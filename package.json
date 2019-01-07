@@ -31,7 +31,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write '**/*.js'",
-    "start": "node index.js"
+    "start": "gatsby develop"
   },
   "devDependencies": {
     "prettier": "^1.14.2"
