@@ -31,7 +31,8 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write '**/*.js'",
-    "heroku-postbuild": "gatsby build"
+    "heroku-postbuild": "gatsby build",
+    "start": "gatsby serve --port ${PORT}"
   },
   "devDependencies": {
     "prettier": "^1.14.2"
